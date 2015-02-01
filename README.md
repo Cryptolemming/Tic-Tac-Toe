@@ -7,6 +7,6 @@ a1 a2 a3
 b1 b2 b3
 c1 c2 c3
 
-The first player to match 3 consecutive blocks wins.
+The first player to match 3 consecutive spaces wins.
 
 Good luck, have fun.
